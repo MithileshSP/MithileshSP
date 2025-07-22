@@ -57,25 +57,19 @@ I’m passionate about creating smart, user-focused solutions and am eager to wo
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white)
 ![MUI](https://img.shields.io/badge/Material_UI-0081CB?logo=mui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
 ---
 
 ### 🖥️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_API-005571?logo=api&logoColor=white)
-
 ---
 
 ### 🔗 Full Stack Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 
 ---
@@ -83,17 +77,16 @@ I’m passionate about creating smart, user-focused solutions and am eager to wo
 ### 🤖 Generative AI & Prompt Engineering
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?logo=google&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7B68EE?style=flat&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC624?logo=huggingface&logoColor=black)
 
 ---
 
-### 🔐 Cybersecurity (Learning Phase)
+<!--### 🔐 Cybersecurity (Learning Phase)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Networking](https://img.shields.io/badge/Networking-007396?logo=gnubash&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004370?logo=gnu&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-3C3C3C?logo=hackthebox&logoColor=green)
 
----
+--- -->
 
 ### 👨‍💻 Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -101,6 +94,8 @@ I’m passionate about creating smart, user-focused solutions and am eager to wo
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+
 
 
 ## 🏆 Achievements
@@ -115,10 +110,10 @@ I’m passionate about creating smart, user-focused solutions and am eager to wo
 
 I'm always excited to connect with fellow developers, open-source enthusiasts, or AI innovators!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](<ADD_YOUR_LINKEDIN>)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](<ADD_YOUR_LEETCODE>)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=githubpages&logoColor=white)](<ADD_YOUR_PORTFOLIO_LINK>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](<www.linkedin.com/in/mithileshsp>)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](<https://leetcode.com/Mithil1324/>)  
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=githubpages&logoColor=white)](<ADD_YOUR_PORTFOLIO_LINK>)
 
----
+--- -->
 
 > ⚡ *“The best way to learn is to build. The best way to grow is to share.”*
