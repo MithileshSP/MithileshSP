@@ -19,30 +19,28 @@ I’m passionate about creating smart, user-focused solutions and am eager to wo
 
 ## ⚡ What I'm Currently Working On
 
-- 🚀 Advancing my **Full Stack (MERN)** skills  
+- 🚀 Advancing my **Full Stack** skills  
 - 🤖 Experimenting with **Generative AI** tools & prompt engineering  
 - 💡 Exploring **Open Source Contributions**  
-- 🔐 Learning **Cybersecurity fundamentals** (Networking, Linux, Web Security)
+<!--- - 🔐 Learning **Cybersecurity fundamentals** (Networking, Linux, Web Security) --->
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🔹 **[GEN-AI Chatbot](<ADD_YOUR_GITHUB_REPO_LINK>)**  
-  Lightweight chatbot built using Google Gemini API and Flask.  
+- 🔹 **[GEN-AI Chatbot](<https://github.com/MithileshSP/GEN-AI>)**  
+  Lightweight chatbot built using Google Gemini API.  
   🔗 [Live Demo](<https://gen-ai-7xtq-git-main-mithilesh-s-ps-projects.vercel.app>)
 
-- 🔹 **[Swiggy Clone – Fullstack](<ADD_YOUR_GITHUB_REPO_LINK>)**  
+- 🔹 **[Swiggy Clone – Fullstack](<https://github.com/MithileshSP/Swiggy>)**  
   Full-stack clone of Swiggy with user authentication, cart system, and food ordering UI.  
-  Built with React, Node.js, MongoDB.  
-  🔗 [Live Demo](<ADD_LIVE_LINK>)
+  Built with React, Node.js.  
 
-- 🔹 **[Task Management App](<ADD_YOUR_GITHUB_REPO_LINK>)**  
+- 🔹 **[Task Management App](<https://github.com/MithileshSP/TaskManagement>)**  
   A Kanban-style task tracker with drag-drop features and user login.  
-  Built with React + Firebase.  
-  🔗 [Live Demo](<ADD_LIVE_LINK>)
-
-- 🔹 **[Contact Search App](<ADD_YOUR_GITHUB_REPO_LINK>)**  
+  Built with React + Vite.
+  
+- 🔹 **[Contact Search App](<https://github.com/MithileshSP/Contact_search>)**  
   Fast contact lookup app with fuzzy search and UI filters.
 
 ---
@@ -88,9 +86,10 @@ I’m passionate about creating smart, user-focused solutions and am eager to wo
 ![Networking](https://img.shields.io/badge/Networking-007396?logo=gnubash&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004370?logo=gnu&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-3C3C3C?logo=hackthebox&logoColor=green)
--->
 
 ---
+-->
+
 
 ### 👨‍💻 Programming Languages  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
