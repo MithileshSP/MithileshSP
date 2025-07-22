@@ -47,9 +47,10 @@ I’m passionate about creating smart, user-focused solutions and am eager to wo
 
 ---
 
-## 🛠️ Skills & Technologies
+<details>
+<summary>🛠️ <b>Click to view all Skills & Technologies</b></summary><br>
 
-### 🌐 Frontend
+### 🌐 Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -60,12 +61,13 @@ I’m passionate about creating smart, user-focused solutions and am eager to wo
 
 ---
 
-### 🖥️ Backend
+### 🖥️ Backend  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+
 ---
 
-### 🔗 Full Stack Tools
+### 🔗 Full Stack Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
@@ -74,21 +76,23 @@ I’m passionate about creating smart, user-focused solutions and am eager to wo
 
 ---
 
-### 🤖 Generative AI & Prompt Engineering
+### 🤖 Generative AI & Prompt Engineering  
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?logo=google&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7B68EE?style=flat&logo=openai&logoColor=white)
 
 ---
 
-<!--### 🔐 Cybersecurity (Learning Phase)
+<!--
+### 🔐 Cybersecurity (Learning Phase)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Networking](https://img.shields.io/badge/Networking-007396?logo=gnubash&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004370?logo=gnu&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-3C3C3C?logo=hackthebox&logoColor=green)
+-->
 
---- -->
+---
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Programming Languages  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
@@ -96,7 +100,9 @@ I’m passionate about creating smart, user-focused solutions and am eager to wo
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 
+</details>
 
+---
 
 ## 🏆 Achievements
 
@@ -110,10 +116,10 @@ I’m passionate about creating smart, user-focused solutions and am eager to wo
 
 I'm always excited to connect with fellow developers, open-source enthusiasts, or AI innovators!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](<www.linkedin.com/in/mithileshsp>)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](<https://leetcode.com/Mithil1324/>)  
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=githubpages&logoColor=white)](<ADD_YOUR_PORTFOLIO_LINK>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithileshsp)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/Mithil1324/)  
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=githubpages&logoColor=white)](<ADD_YOUR_PORTFOLIO_LINK>) -->
 
---- -->
+---
 
 > ⚡ *“The best way to learn is to build. The best way to grow is to share.”*
