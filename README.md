@@ -30,7 +30,7 @@ I’m passionate about creating smart, user-focused solutions and am eager to wo
 
 - 🔹 **[GEN-AI Chatbot](<ADD_YOUR_GITHUB_REPO_LINK>)**  
   Lightweight chatbot built using Google Gemini API and Flask.  
-  🔗 [Live Demo](<ADD_LIVE_LINK>)
+  🔗 [Live Demo](<https://gen-ai-7xtq-git-main-mithilesh-s-ps-projects.vercel.app>)
 
 - 🔹 **[Swiggy Clone – Fullstack](<ADD_YOUR_GITHUB_REPO_LINK>)**  
   Full-stack clone of Swiggy with user authentication, cart system, and food ordering UI.  
